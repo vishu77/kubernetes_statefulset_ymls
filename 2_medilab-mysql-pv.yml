@@ -5,7 +5,7 @@ metadata:
   namespace: medilab-db-ns
 spec:
   capacity:
-    storage: 4Gi
+    storage: 10Gi
   accessModes:
     - ReadWriteOnce
   storageClassName: local-storage
